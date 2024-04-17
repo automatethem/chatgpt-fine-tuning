@@ -8,11 +8,9 @@ https://platform.openai.com/settings/organization/billing/overview
 
 ## 파인 튜닝
 
-https://platform.openai.com/finetune
-
-![](attach_files/1.png?raw=true)
-
 ### davinci-002
+
+https://platform.openai.com/finetune
 
 [datasets/completion/train.jsonl](datasets/completion/train.jsonl)
 
@@ -20,6 +18,10 @@ https://platform.openai.com/finetune
 https://platform.openai.com/playground/complete
 
 ### babbage-002, gpt-3.5-turbo-0125
+
+https://platform.openai.com/finetune
+
+![](attach_files/1.png?raw=true)
 
 [datasets/chat/train.jsonl](datasets/chat/train.jsonl)
 
