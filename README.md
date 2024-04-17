@@ -25,4 +25,4 @@ https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset
 
 ## 2
 
-https://wikidocs.net/198997
+https://wikidocs.net/200142
