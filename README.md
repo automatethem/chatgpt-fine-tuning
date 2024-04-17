@@ -2,8 +2,6 @@
 
 참고 자료:  
 
-https://lsjsj92.tistory.com/656  
-https://github.com/lsjsj92/openai-tutorial/blob/main/example/example.jsonl
 
 Fine-tuning OpenAI's GPT 3.5 for LangChain Agents  
 https://www.youtube.com/watch?v=boHXgQ5eQic  
