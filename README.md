@@ -1,7 +1,41 @@
-# chatgpt-fine-tuning
+# chatgpt-fine-tuning-web
 
-https://github.com/automatethem/chatgpt-fine-tuning-cli
+## 포인트 충전
 
-https://github.com/automatethem/chatgpt-fine-tuning-py
+https://platform.openai.com/settings/organization/billing/overview
 
-https://github.com/automatethem/chatgpt-fine-tuning-js
+![](attach_files/1.png?raw=true)
+
+## 파인 튜닝
+
+### davinci-002
+
+[simple-data.jsonl](simple-data.jsonl)
+
+https://platform.openai.com/finetune
+
+![](attach_files/2.png?raw=true)
+
+![](attach_files/3.png?raw=true)
+
+![](attach_files/4.png?raw=true)
+
+![](attach_files/5.png?raw=true)
+
+![](attach_files/6.png?raw=true)
+
+예측  
+https://platform.openai.com/playground/complete
+
+![](attach_files/7.png?raw=true)
+
+![](attach_files/8.png?raw=true)
+
+### babbage-002, gpt-3.5-turbo-0125
+
+[multi-turn-data.jsonl](multi-turn-data.jsonl)
+
+https://platform.openai.com/settings/organization/billing/overview
+
+예측  
+https://platform.openai.com/playground/chat
