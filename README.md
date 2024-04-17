@@ -1,4 +1,4 @@
-# chatgpt-fine-tuning-web
+# chatgpt-fine-tuning
 
 ## 포인트 충전
 
