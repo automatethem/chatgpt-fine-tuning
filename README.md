@@ -10,7 +10,7 @@ https://platform.openai.com/settings/organization/billing/overview
 
 ### davinci-002
 
-[simple-data.jsonl](simple-data.jsonl)
+[completion-data.jsonl](completion-data.jsonl)
 
 https://platform.openai.com/finetune
 
@@ -33,7 +33,7 @@ https://platform.openai.com/playground/complete
 
 ### babbage-002, gpt-3.5-turbo-0125
 
-[multi-turn-data.jsonl](multi-turn-data.jsonl)
+[chat-data.jsonl](chat-data.jsonl)
 
 https://platform.openai.com/settings/organization/billing/overview
 
