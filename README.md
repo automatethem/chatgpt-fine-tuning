@@ -1,11 +1,5 @@
 # chatgpt-fine-tuning
 
-## 포인트 충전
-
-https://platform.openai.com/settings/organization/billing/overview
-
-![](attach_files/1.png?raw=true)
-
 ## 학습 데이터
 
 [completion-data.jsonl](completion-data.jsonl)
@@ -15,6 +9,12 @@ https://platform.openai.com/settings/organization/billing/overview
 https://github.com/automatethem/datasets/tree/main/completion
 
 https://github.com/automatethem/datasets/tree/main/chat
+
+## 포인트 충전
+
+https://platform.openai.com/settings/organization/billing/overview
+
+![](attach_files/1.png?raw=true)
 
 ## 파인 튜닝
 
