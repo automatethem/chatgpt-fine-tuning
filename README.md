@@ -1,6 +1,7 @@
 # chatgpt-fine-tuning
 
-참고 자료:  
+https://github.com/automatethem/chatgpt-fine-tuning-cli
 
-https://community.openai.com/t/free-tools-fine-tune-openai-api-gpt-3-5-turbo-model-uploader/351619  
-https://github.com/H0llyW00dzZ/OpenAI-API/blob/master/main.py
+https://github.com/automatethem/chatgpt-fine-tuning-py
+
+https://github.com/automatethem/chatgpt-fine-tuning-js
