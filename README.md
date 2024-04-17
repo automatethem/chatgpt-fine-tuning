@@ -11,8 +11,3 @@ https://github.com/pinecone-io/examples/blob/master/learn/generation/openai/fine
 
 https://community.openai.com/t/free-tools-fine-tune-openai-api-gpt-3-5-turbo-model-uploader/351619  
 https://github.com/H0llyW00dzZ/OpenAI-API/blob/master/main.py
-
-
-## 2
-
-https://wikidocs.net/200142
