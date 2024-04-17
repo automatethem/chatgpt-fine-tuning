@@ -24,6 +24,15 @@ https://platform.openai.com/settings/organization/billing/overview
 
 https://platform.openai.com/finetune
 
+예측  
+https://platform.openai.com/playground/complete
+
+### babbage-002, gpt-3.5-turbo-0125
+
+[chat-data.jsonl](chat-data.jsonl)
+
+https://platform.openai.com/settings/organization/billing/overview
+
 ![](attach_files/2.png?raw=true)
 
 ![](attach_files/3.png?raw=true)
@@ -35,17 +44,8 @@ https://platform.openai.com/finetune
 ![](attach_files/6.png?raw=true)
 
 예측  
-https://platform.openai.com/playground/complete
+https://platform.openai.com/playground/chat
 
 ![](attach_files/7.png?raw=true)
 
 ![](attach_files/8.png?raw=true)
-
-### babbage-002, gpt-3.5-turbo-0125
-
-[chat-data.jsonl](chat-data.jsonl)
-
-https://platform.openai.com/settings/organization/billing/overview
-
-예측  
-https://platform.openai.com/playground/chat
