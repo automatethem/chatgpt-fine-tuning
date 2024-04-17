@@ -1,9 +1,5 @@
 # chatgpt-fine-tuning
 
-```
-openai tools fine_tunes.prepare_data -f example.jsonl
-```
-
 참고 자료:  
 
 https://lsjsj92.tistory.com/656  
