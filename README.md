@@ -8,22 +8,18 @@ https://platform.openai.com/settings/organization/billing/overview
 
 ## 파인 튜닝
 
+https://platform.openai.com/finetune
+
 ### davinci-002
 
-[completion-data.jsonl](completion-data.jsonl)
-
-https://github.com/automatethem/datasets/tree/main/completion
-
-https://platform.openai.com/finetune
+[datasets/completion/train.jsonl](datasets/completion/train.jsonl)
 
 예측  
 https://platform.openai.com/playground/complete
 
 ### babbage-002, gpt-3.5-turbo-0125
 
-[chat-data.jsonl](chat-data.jsonl)
-
-https://github.com/automatethem/datasets/tree/main/chat
+[datasets/chat/train.jsonl](datasets/chat/train.jsonl)
 
 https://platform.openai.com/settings/organization/billing/overview
 
