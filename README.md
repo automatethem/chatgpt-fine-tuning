@@ -6,6 +6,16 @@ https://platform.openai.com/settings/organization/billing/overview
 
 ![](attach_files/1.png?raw=true)
 
+## 학습 데이터
+
+[completion-data.jsonl](completion-data.jsonl)
+
+[chat-data.jsonl](chat-data.jsonl)
+
+https://github.com/automatethem/datasets/tree/main/completion
+
+https://github.com/automatethem/datasets/tree/main/chat
+
 ## 파인 튜닝
 
 ### davinci-002
