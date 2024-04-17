@@ -23,8 +23,6 @@ https://platform.openai.com/finetune
 
 [datasets/chat/train.jsonl](datasets/chat/train.jsonl)
 
-![](attach_files/1.png?raw=true)
-
 ![](attach_files/2.png?raw=true)
 
 ![](attach_files/3.png?raw=true)
