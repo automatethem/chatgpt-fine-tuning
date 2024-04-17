@@ -1,5 +1,9 @@
 # chatgpt-fine-tuning
 
+```
+openai tools fine_tunes.prepare_data -f example.jsonl
+```
+
 참고 자료:  
 
 GPT 파인튜닝(Fine-Tuning)으로 나만의 챗봇 만들기 (feat. OpenAI API)  
