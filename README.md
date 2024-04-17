@@ -10,6 +10,8 @@ https://platform.openai.com/settings/organization/billing/overview
 
 https://platform.openai.com/finetune
 
+![](attach_files/1.png?raw=true)
+
 ### davinci-002
 
 [datasets/completion/train.jsonl](datasets/completion/train.jsonl)
