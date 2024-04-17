@@ -21,11 +21,9 @@ https://platform.openai.com/playground/complete
 
 https://platform.openai.com/finetune
 
-![](attach_files/1.png?raw=true)
-
 [datasets/chat/train.jsonl](datasets/chat/train.jsonl)
 
-https://platform.openai.com/settings/organization/billing/overview
+![](attach_files/1.png?raw=true)
 
 ![](attach_files/2.png?raw=true)
 
