@@ -24,6 +24,10 @@ https://github.com/automatethem/datasets/blob/main/completion/dongbuk/train.json
 
 ![](attach_files/ft-1-5.png?raw=true)
 
+```
+ft:davinci-002:cranberry:completion-dongbuk:9FIhC0sY
+```
+
 예측  
 https://platform.openai.com/playground/complete
 
@@ -42,6 +46,10 @@ https://github.com/automatethem/datasets/blob/main/chat/dongbuk/train.jsonl
 ![](attach_files/ft-2-4.png?raw=true)
 
 ![](attach_files/ft-2-5.png?raw=true)
+
+```
+ft:gpt-3.5-turbo-1106:cranberry:chat-dongbuk:9FIu7lTd
+```
 
 예측  
 https://platform.openai.com/playground/chat
