@@ -12,7 +12,17 @@ https://platform.openai.com/settings/organization/billing/overview
 
 https://platform.openai.com/finetune
 
-[datasets/completion/train.jsonl](datasets/completion/train.jsonl)
+[datasets/completion/dongbuk/train.jsonl](datasets/completion/dongbuk/train.jsonl)
+
+![](attach_files/ft-1-1.png?raw=true)
+
+![](attach_files/ft-1-2.png?raw=true)
+
+![](attach_files/ft-1-3.png?raw=true)
+
+![](attach_files/ft-1-4.png?raw=true)
+
+![](attach_files/ft-1-5.png?raw=true)
 
 예측  
 https://platform.openai.com/playground/complete
@@ -21,17 +31,17 @@ https://platform.openai.com/playground/complete
 
 https://platform.openai.com/finetune
 
-[datasets/chat/train.jsonl](datasets/chat/train.jsonl)
+[datasets/chat/dongbuk/train.jsonl](datasets/chat/dongbuk/train.jsonl)
 
-![](attach_files/2.png?raw=true)
+![](attach_files/ft-2-1.png?raw=true)
 
-![](attach_files/3.png?raw=true)
+![](attach_files/ft-2-2.png?raw=true)
 
-![](attach_files/4.png?raw=true)
+![](attach_files/ft-2-3.png?raw=true)
 
-![](attach_files/5.png?raw=true)
+![](attach_files/ft-2-4.png?raw=true)
 
-![](attach_files/6.png?raw=true)
+![](attach_files/ft-2-5.png?raw=true)
 
 예측  
 https://platform.openai.com/playground/chat
