@@ -35,8 +35,6 @@ https://platform.openai.com/playground/complete
 
 ![](attach_files/ft-1-7.png?raw=true)
 
-![](attach_files/ft-1-8.png?raw=true)
-
 ### babbage-002, gpt-3.5-turbo-0125
 
 https://platform.openai.com/finetune
@@ -64,4 +62,3 @@ https://platform.openai.com/playground/chat
 
 ![](attach_files/ft-2-7.png?raw=true)
 
-![](attach_files/ft-2-8.png?raw=true)
