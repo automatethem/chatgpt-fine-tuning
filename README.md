@@ -27,14 +27,14 @@ https://github.com/automatethem/datasets/blob/main/completion/factual-sarcastic/
 
 ![](attach_files/ft-1-4.png?raw=true)
 
+![](attach_files/ft-1-5.png?raw=true)
+
 ```
-ft:davinci-002:cranberry:completion-dongbuk:9FIhC0sY
+ft:davinci-002:cranberry:factual-sarcastic:9FLfFO8R
 ```
 
 예측  
 https://platform.openai.com/playground/complete
-
-![](attach_files/ft-1-5.png?raw=true)
 
 ![](attach_files/ft-1-6.png?raw=true)
 
@@ -57,13 +57,13 @@ https://github.com/automatethem/datasets/blob/main/chat/factual-sarcastic/train.
 
 ![](attach_files/ft-2-4.png?raw=true)
 
+![](attach_files/ft-2-5.png?raw=true)
+
 ```
-ft:gpt-3.5-turbo-1106:cranberry:chat-dongbuk:9FIu7lTd
+ft:gpt-3.5-turbo-1106:cranberry:factual-sarcastic:9FLkDqVd
 ```
 
 예측  
 https://platform.openai.com/playground/chat
-
-![](attach_files/ft-2-5.png?raw=true)
 
 ![](attach_files/ft-2-6.png?raw=true)
