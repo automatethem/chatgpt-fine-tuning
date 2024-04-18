@@ -12,7 +12,7 @@ https://platform.openai.com/settings/organization/billing/overview
 
 https://platform.openai.com/finetune
 
-[datasets/completion/dongbuk/train.jsonl](datasets/completion/dongbuk/train.jsonl)
+https://github.com/automatethem/datasets/blob/main/completion/dongbuk/train.jsonl
 
 ![](attach_files/ft-1-1.png?raw=true)
 
@@ -31,7 +31,7 @@ https://platform.openai.com/playground/complete
 
 https://platform.openai.com/finetune
 
-[datasets/chat/dongbuk/train.jsonl](datasets/chat/dongbuk/train.jsonl)
+https://github.com/automatethem/datasets/blob/main/chat/dongbuk/train.jsonl
 
 ![](attach_files/ft-2-1.png?raw=true)
 
