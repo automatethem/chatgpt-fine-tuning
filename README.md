@@ -4,7 +4,7 @@
 
 https://platform.openai.com/settings/organization/billing/overview
 
-![222](attach_files/b.png?raw=true)
+![](attach_files/b.png?raw=true)
 
 ## 파인 튜닝
 
