@@ -67,3 +67,7 @@ ft:gpt-3.5-turbo-1106:cranberry:factual-sarcastic:9FLkDqVd
 https://platform.openai.com/playground/chat
 
 ![](attach_files/ft-2-6.png?raw=true)
+
+## 1
+
+여기 수영장을 그린 이미지가 있습니다. [이미지 링크](https://oaidalleapiprodscus.blob.core.windows.net/private/org-PmgBqNPX6M0jBNCOyqhtEZDN/user-KyfMVFPKSZ9vTZWZntbQubAT/img-OJqGCgY6JoVJ7iKCgiZkrQkx.png?st=2024-04-28T09%3A57%3A03Z&se=2024-04-28T11%3A57%3A03Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-27T19%3A40%3A58Z&ske=2024-04-28T19%3A40%3A58Z&sks=b&skv=2021-08-06&sig=IyLkkBM7Lw3W15ORZBmNemu1EUPUEja8HWB8oDptMFU%3D)에서 확인하실 수 있습니다. 만족스러우신가요?
